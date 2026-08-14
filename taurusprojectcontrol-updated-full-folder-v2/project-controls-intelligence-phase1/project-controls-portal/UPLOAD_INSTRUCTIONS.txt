@@ -1,0 +1,15 @@
+TAURUS PROJECT CONTROL — REPLACEMENT UPLOAD
+
+1. Unzip this package on your computer.
+2. In GitHub, delete the old project-controls-intelligence-phase1 folder.
+3. Upload the new project-controls-intelligence-phase1 folder from this package.
+4. Commit the changes to the main branch.
+5. Keep the Vercel Root Directory as:
+   project-controls-intelligence-phase1/project-controls-portal
+6. Before redeploying, create the Auth user in Supabase and run:
+   supabase/migrations/0002_user_access_management.sql
+7. Add all five Vercel environment variables listed in README.md.
+8. Redeploy and test the login.
+
+Never upload passwords, database passwords, Supabase secret keys, Excel files,
+XER files, .env files or .env.local files to GitHub.
