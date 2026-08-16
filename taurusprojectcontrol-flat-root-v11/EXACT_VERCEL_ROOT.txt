@@ -1,5 +1,0 @@
-LEAVE THE VERCEL ROOT DIRECTORY EMPTY
-
-This flat package places package.json, app, components and lib directly at the
-GitHub repository root. In Vercel, open Settings > Build and Deployment, edit
-Root Directory, remove the existing value completely, and save.
