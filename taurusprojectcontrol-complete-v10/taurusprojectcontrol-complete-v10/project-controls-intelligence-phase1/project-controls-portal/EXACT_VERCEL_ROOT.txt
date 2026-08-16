@@ -1,4 +1,0 @@
-taurusprojectcontrol-complete-v10/project-controls-intelligence-phase1/project-controls-portal
-
-Use the line above in Vercel when GitHub shows the outer
-taurusprojectcontrol-complete-v10 folder.
