@@ -1,0 +1,18 @@
+TAURUS PROJECT CONTROL v12 — WEIGHTED S-CURVE RELEASE
+
+1. Unzip this package on your computer.
+2. Upload the extracted taurusprojectcontrol-scurve-v12 folder to the GitHub repository root.
+3. Open that GitHub folder.
+4. Confirm package.json, app, components, lib, public and supabase all appear directly inside it.
+5. Commit the changes to main.
+6. In Supabase SQL Editor run these complete files in order:
+   supabase/migrations/0005_final_portal_repair.sql
+   supabase/migrations/0006_reliable_versioned_excel_publishing.sql
+7. In Vercel Settings > Build and Deployment set Root Directory exactly to:
+   taurusprojectcontrol-scurve-v12
+8. Keep all five environment variables listed in START_HERE.md.
+9. Deploy the latest main-branch commit. Do not redeploy an old failed deployment.
+10. Sign in, open Import & Publish, and upload the progress/MDR and schedule XLSX files.
+
+Never upload passwords, database passwords, Supabase secret keys, Excel files,
+XER files, .env files or .env.local files to GitHub.

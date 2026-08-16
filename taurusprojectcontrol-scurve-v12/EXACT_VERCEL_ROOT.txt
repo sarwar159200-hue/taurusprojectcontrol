@@ -1,0 +1,7 @@
+taurusprojectcontrol-scurve-v12
+
+Use the line above when GitHub shows this breadcrumb:
+taurusprojectcontrol / taurusprojectcontrol-scurve-v12
+
+If package.json is instead visible on the first page of the repository, leave
+the Vercel Root Directory empty.
