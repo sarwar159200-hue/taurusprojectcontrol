@@ -1,0 +1,19 @@
+TAURUS PROJECT CONTROL v14 — REPLACEMENT UPLOAD
+
+1. Unzip this package on your computer.
+2. In GitHub, remove the old folder only after the v14 deployment succeeds.
+3. Upload the extracted taurusprojectcontrol-professional-v14 folder from this package.
+4. Confirm this exact GitHub path exists:
+   taurusprojectcontrol-professional-v14/package.json
+5. Commit the changes to main.
+6. In Supabase SQL Editor run these complete files in order:
+   supabase/migrations/0005_final_portal_repair.sql
+   supabase/migrations/0006_reliable_versioned_excel_publishing.sql
+7. Keep the Vercel Root Directory exactly as:
+   taurusprojectcontrol-professional-v14
+8. Keep all five environment variables listed in START_HERE.md.
+9. Redeploy without the old build cache.
+10. Sign in, open Import & Publish, and upload the progress/MDR and schedule XLSX files.
+
+Never upload passwords, database passwords, Supabase secret keys, Excel files,
+XER files, .env files or .env.local files to GitHub.
