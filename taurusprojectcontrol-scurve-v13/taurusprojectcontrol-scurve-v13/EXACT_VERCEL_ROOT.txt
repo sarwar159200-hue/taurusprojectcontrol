@@ -1,0 +1,4 @@
+taurusprojectcontrol-scurve-v13
+
+Use the line above exactly in Vercel. The folder contains package.json,
+app, components, lib, public and supabase directly inside it.
