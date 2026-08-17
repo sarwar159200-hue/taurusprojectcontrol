@@ -1,0 +1,5 @@
+If uploaded once under the repository root:
+taurusprojectcontrol-professional-v23
+
+If GitHub creates the same duplicated nested structure as your prior uploads:
+taurusprojectcontrol-professional-v23/taurusprojectcontrol-professional-v23

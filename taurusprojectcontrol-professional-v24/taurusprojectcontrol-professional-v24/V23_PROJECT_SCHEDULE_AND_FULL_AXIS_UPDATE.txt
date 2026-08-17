@@ -1,0 +1,18 @@
+Taurus Project Control V23
+
+Updates:
+1. Project Schedule rebuilt to match the approved Project Plan & WBS Overview reference layout:
+   - 5 KPI cards
+   - Activity Status Overview
+   - Performance Snapshot with View-by and Metric selectors
+   - Activity Distribution donut
+   - WBS Structure panel with search and progress
+   - All Schedule Activities panel with discipline/sub-discipline/status/search filters and 10-row pagination
+
+2. Executive Overview S-curve axis updated:
+   - Monthly mode renders every available month label.
+   - Weekly mode renders every available reporting-week label.
+   - Weekly mode also includes month bands below the week labels.
+   - Chart expands as needed so labels are not silently omitted.
+
+No Supabase migration required.
