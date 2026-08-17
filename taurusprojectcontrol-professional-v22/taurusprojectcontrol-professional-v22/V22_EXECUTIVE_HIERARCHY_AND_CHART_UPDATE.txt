@@ -1,0 +1,14 @@
+Taurus Project Control V22
+
+Executive Overview improvements:
+1. Discipline and Sub-discipline selectors restored directly above the Executive S-curve.
+2. Monthly / Weekly + Discipline + Sub-discipline now work together dynamically.
+3. Executive S-curve upgraded for readability:
+   - high-contrast baseline and actual colors
+   - adaptive date labels to avoid overcrowding
+   - hover crosshair and value tooltip
+   - clearer points, grid, legend and labels
+4. Distribution Summary donut readability improved in dark mode.
+5. Existing V21 layout, Document Control logic, Supabase setup and prior corrections remain unchanged.
+
+No Supabase migration required.

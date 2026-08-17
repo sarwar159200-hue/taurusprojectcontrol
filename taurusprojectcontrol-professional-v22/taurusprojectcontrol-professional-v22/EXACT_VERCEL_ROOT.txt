@@ -1,0 +1,5 @@
+If uploaded as one folder directly under the repository root:
+taurusprojectcontrol-professional-v22
+
+If GitHub creates a duplicated nested folder, use:
+taurusprojectcontrol-professional-v22/taurusprojectcontrol-professional-v22
