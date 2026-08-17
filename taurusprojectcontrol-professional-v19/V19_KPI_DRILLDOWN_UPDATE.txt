@@ -1,0 +1,19 @@
+TAURUS PROJECT CONTROL - V19 KPI DRILL-DOWN UPDATE
+
+Based directly on V18.
+
+Document Control changes only:
+- All six KPI cards are clickable.
+- Clicking a KPI opens a drill-down list matching that KPI and all currently active dashboard filters.
+- Drill-down supports pagination and direct source-file links.
+- Drill-down has Export Excel, producing a true .xlsx file.
+- Excel output includes document number, title, discipline, revision, status, responsible party, review stage, contractual due date, overdue/due days, review cycle, transmittal and file URL.
+- Existing V18 dashboard layout, MDR logic, 14-day contractual clocks, filters, charts and live register are retained.
+
+KPI logic:
+Register: all currently filtered documents.
+Approved: currently filtered documents grouped as Approved.
+Under review: currently filtered documents grouped as Under review.
+Overdue: currently filtered documents with live overdue days > 0.
+Due next 7 days: currently filtered documents due in 0-7 days.
+Avg. review cycle: documents used to calculate the completed review-cycle average.
