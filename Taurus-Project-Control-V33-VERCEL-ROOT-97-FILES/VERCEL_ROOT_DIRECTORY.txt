@@ -1,0 +1,10 @@
+TAURUS PROJECT CONTROL V33
+
+If this folder itself is uploaded under the GitHub repository root, set Vercel Root Directory to the exact uploaded folder name.
+If app/, components/, lib/, package.json and vercel.json are directly at the repository root, leave Root Directory blank.
+
+Framework Preset: Next.js
+Build Command override: OFF
+Output Directory override: OFF
+Install Command override: OFF
+Development Command override: OFF
