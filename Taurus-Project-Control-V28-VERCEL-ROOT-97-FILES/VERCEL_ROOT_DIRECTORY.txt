@@ -1,0 +1,19 @@
+TAURUS PROJECT CONTROL V27 — VERCEL ROOT DIRECTORY
+
+This ZIP is ROOT-READY.
+
+Recommended deployment:
+1. Extract this ZIP.
+2. Upload ALL files/folders inside this folder directly to the ROOT of the GitHub repository.
+3. GitHub must show package.json, app, components, lib, public, supabase at repository root.
+4. In Vercel > Settings > Build and Deployment:
+   Root Directory: leave blank / ./
+   Framework Preset: Next.js
+   Build Command: Override OFF
+   Install Command: Override OFF
+   Output Directory: Override OFF
+5. Redeploy the latest commit WITHOUT build cache.
+
+IMPORTANT:
+Do NOT set the Vercel Root Directory to taurusprojectcontrol-professional-v26 for this package.
+This package has intentionally removed the extra wrapper-folder requirement that caused the 404 risk.
