@@ -1,0 +1,18 @@
+TAURUS PROJECT CONTROL V30 — VERCEL ROOT
+
+This ZIP is ROOT-DIRECT (no duplicated folder inside the archive).
+
+Recommended GitHub structure after extracting and uploading the extracted folder:
+/taurusprojectcontrol/Taurus-Project-Control-V30-VERCEL-ROOT-95-FILES/package.json
+/taurusprojectcontrol/Taurus-Project-Control-V30-VERCEL-ROOT-95-FILES/app
+
+Exact Vercel Root Directory in that case:
+Taurus-Project-Control-V30-VERCEL-ROOT-95-FILES
+
+If you upload app/, components/, lib/, package.json, etc. directly into the repository root, leave Vercel Root Directory blank (or ./).
+
+Framework Preset: Next.js
+Build Command: Override OFF
+Output Directory: Override OFF
+Install Command: Override OFF
+Development Command: Override OFF
