@@ -1,0 +1,12 @@
+TAURUS PROJECT CONTROL V29 — EXACT VERCEL ROOT DIRECTORY
+
+If you upload the extracted V29 folder to GitHub as shown in your current repository workflow, set:
+Root Directory: Taurus-Project-Control-V29-VERCEL-ROOT-95-FILES
+Framework Preset: Next.js
+Build Command: Override OFF
+Install Command: Override OFF
+Output Directory: Override OFF
+
+The selected root MUST be the folder that directly contains package.json, app/, components/, lib/, public/, supabase/ and vercel.json.
+
+If instead you upload those contents directly at the GitHub repository root, leave Root Directory blank (./).
