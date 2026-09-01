@@ -1,5 +1,0 @@
-EXACT VERCEL ROOT DIRECTORY
-taurusprojectcontrol-professional-v26
-
-GitHub must contain:
-taurusprojectcontrol-professional-v26/package.json
