@@ -1,0 +1,19 @@
+Taurus Project Control V34
+
+If GitHub shows this folder:
+  Taurus-Project-Control-V34-VERCEL-ROOT-98-FILES/
+    app/
+    components/
+    lib/
+    package.json
+
+set Vercel Root Directory exactly to:
+  Taurus-Project-Control-V34-VERCEL-ROOT-98-FILES
+
+If app/, components/, lib/ and package.json are directly at the repository top level, leave Root Directory blank.
+
+Framework Preset: Next.js
+Build Command override: OFF
+Output Directory override: OFF
+Install Command override: OFF
+Development Command override: OFF
