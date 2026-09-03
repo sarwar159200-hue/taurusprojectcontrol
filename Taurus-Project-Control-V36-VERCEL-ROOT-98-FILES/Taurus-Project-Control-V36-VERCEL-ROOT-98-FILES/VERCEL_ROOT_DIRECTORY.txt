@@ -1,0 +1,27 @@
+TAURUS PROJECT CONTROL V36 — VERCEL ROOT DIRECTORY
+
+If GitHub shows this structure:
+
+taurusprojectcontrol/
+  Taurus-Project-Control-V36-VERCEL-ROOT-98-FILES/
+    app/
+    components/
+    lib/
+    public/
+    package.json
+
+Set Vercel Root Directory exactly to:
+
+Taurus-Project-Control-V36-VERCEL-ROOT-98-FILES
+
+Framework Preset: Next.js
+Build Command override: OFF
+Output Directory override: OFF
+Install Command override: OFF
+Development Command override: OFF
+
+PERFORMANCE V36:
+- Heavy published version rows are cached server-side by immutable version ID.
+- New publishes receive a new version ID, so new data appears immediately.
+- Navigation prefetches only the tab the user points to/focuses/touches, avoiding a slow all-tabs preload.
+- Existing project-control calculations, permissions, downloads, notifications and data-date logic are retained.

@@ -1,0 +1,19 @@
+TAURUS PROJECT CONTROL V34 — NOTIFICATION SETUP
+
+1) Supabase
+Run this file once in Supabase SQL Editor:
+  supabase/migrations/0009_project_administrator_notifications.sql
+
+2) Vercel environment variables
+Keep the existing Supabase variables and add/verify:
+  SUPABASE_SERVICE_ROLE_KEY=<service-role or sb_secret key from the SAME Supabase project>
+  RESEND_API_KEY=<your Resend API key>
+  PROJECT_NOTIFICATION_FROM_EMAIL=Taurus Project Control <notifications@your-verified-domain.com>
+  PROJECT_CONTROL_URL=https://taurusprojectcontrol.vercel.app
+
+Recipient addresses are taken from Supabase Auth auth.users.email, i.e. the exact email each active user uses to sign in.
+
+The FROM address must be a sender/domain verified by your email provider. A login email cannot automatically be used as the FROM address unless that address/domain is verified for sending.
+
+3) Authorization
+Only Super Admin and Project Administrator can see/use Project Administrator publishing and notifications. The API and database also enforce the same restriction.
