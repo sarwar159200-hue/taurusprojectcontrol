@@ -1,0 +1,30 @@
+TAURUS PROJECT CONTROL V37 — VERCEL ROOT DIRECTORY
+
+This ZIP is ROOT-DIRECT: its files are stored directly at ZIP root.
+After normal extraction into a folder named Taurus-Project-Control-V37-VERCEL-ROOT-98-FILES, GitHub should show exactly one V37 folder level.
+
+If GitHub shows:
+
+taurusprojectcontrol/
+  Taurus-Project-Control-V37-VERCEL-ROOT-98-FILES/
+    app/
+    components/
+    lib/
+    public/
+    package.json
+
+Set Vercel Root Directory exactly to:
+
+Taurus-Project-Control-V37-VERCEL-ROOT-98-FILES
+
+Framework Preset: Next.js
+Build Command override: OFF
+Output Directory override: OFF
+Install Command override: OFF
+Development Command override: OFF
+
+V37 runtime stability fix:
+- Dashboard no longer crashes if the Supabase admin/service secret is absent or mismatched.
+- Fast immutable server caching is still used when the admin key is valid.
+- Authenticated RLS read fallback is used when the admin cache path cannot be used.
+- V36 SPI status thresholds are retained.
