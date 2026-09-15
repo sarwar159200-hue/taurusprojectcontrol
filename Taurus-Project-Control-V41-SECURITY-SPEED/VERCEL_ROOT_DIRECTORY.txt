@@ -1,0 +1,9 @@
+TAURUS V41 VERCEL ROOT DIRECTORY
+
+Upload the CONTENTS of this ZIP directly into the GitHub repository root.
+Do not create a V41 parent folder in GitHub.
+
+Vercel -> Settings -> Build and Deployment -> Root Directory:
+LEAVE ROOT DIRECTORY BLANK
+
+The repository root itself contains package.json, app/, components/, lib/, public/ and supabase/.
