@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 48" role="img" aria-label="Kurdistan Region flag">
+  <path fill="#e11d2e" d="M0 0h72v16H0z"/>
+  <path fill="#fff" d="M0 16h72v16H0z"/>
+  <path fill="#159447" d="M0 32h72v16H0z"/>
+  <g transform="translate(36 24)" fill="#f5c400">
+    <circle r="5.7"/>
+    <path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(0)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(21.176)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(42.353)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(63.529)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(84.706)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(105.882)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(127.059)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(148.235)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(169.412)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(190.588)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(211.765)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(232.941)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(254.118)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(275.294)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(296.471)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(317.647)"/><path d="M0-11 1.2-6.5-1.2-6.5z" transform="rotate(338.824)"/>
+  </g>
+</svg>
